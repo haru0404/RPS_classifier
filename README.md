@@ -1,1 +1,1 @@
-# RPS_classifier
+# じゃんけん識別器
